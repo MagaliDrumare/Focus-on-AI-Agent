@@ -19,7 +19,7 @@ url
 
 
 ### AI developments this week :
-- 
+- The Anthropic team just released a paper detailing a new jailbreak technique called "Many Shot Jailbreak" which utilizes the larger context windows and large model's ability to learn against it https://youtu.be/9IM5d-egZ7M?si=Vg0LeOqvykNIBnVk
 - 
 - 
 - 
@@ -44,14 +44,15 @@ AutoGen provides a multi-agent conversation framework as a high-level abstractio
 AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
 - https://youtu.be/4ZqJSfV4818?si=KbITw03fydt8Scu8
 
-### AutoGen Studio 2.0: An advanced AI development tool from Microsoft.
-AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
-- https://youtu.be/4ZqJSfV4818?si=u8V6dBfaQ0jdax8q
-
 ### CrewAI Tutorial - Next Generation AI Agent Teams (Fully Local)
 The power of AI collaboration has too much to offer. CrewAI is designed to enable AI agents to assume roles, share goals, and operate in a cohesive unit - much like a well-oiled crew. Whether you're building a smart assistant platform, an automated customer service ensemble, or a multi-agent research team, CrewAI provides the backbone for sophisticated multi-agent interactions.
 - https://github.com/joaomdmoura/crewAI
 - https://youtu.be/tnejrr-0a94?si=Y9b7vePcvc07PfKk
+
+### NEW HuggingGPT 🤗 - One Model to Rule Them All (Is this AGI?)
+New research paper by HuggingFace, where they propose a new LLM framework that brings us closer to AGI. This is called HuggingGPT. A single centralized model to control many other fine-tuned specialized models, allowing for multi-modal complex task execution.
+- https://youtu.be/PfY9lVtM_H0?si=BgcvXDLHlWRSsFuH
+- https://huggingface.co/spaces/microsoft/HuggingGPT
   
 
 ## 🎯 Focus on Generative Arts 
