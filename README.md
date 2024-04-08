@@ -44,8 +44,9 @@ AutoGen provides a multi-agent conversation framework as a high-level abstractio
 AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
 - https://youtu.be/4ZqJSfV4818?si=KbITw03fydt8Scu8
 
-url 
-
+### AutoGen Studio 2.0: An advanced AI development tool from Microsoft.
+AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
+- https://youtu.be/4ZqJSfV4818?si=u8V6dBfaQ0jdax8q
 
 ## 🎯 Focus on Generative Arts 
 
