@@ -32,9 +32,7 @@ url
 
 ### AI Pioneer Shows The Power of AI AGENTS - "The Future Is Agentic"
 Andrew Ng, Google Brain, and Coursera founder discusses agents' power and how to use them 
-https://youtu.be/ZYf9V2fSFwU?si=XMFy8cbwDX9tTeae
-
-url 
+- https://youtu.be/ZYf9V2fSFwU?si=XMFy8cbwDX9tTeae
 
 ### Item 2 
 
