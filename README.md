@@ -40,9 +40,9 @@ AutoGen provides a multi-agent conversation framework as a high-level abstractio
 - https://github.com/microsoft/autogen
 - https://youtu.be/vU2S6dVf79M?si=haEuf34R7idFdJRs
 
-### Item 3 
-
-TEXT 
+### AutoGen Studio 2.0: An advanced AI development tool from Microsoft.
+AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
+- https://youtu.be/4ZqJSfV4818?si=KbITw03fydt8Scu8
 
 url 
 
