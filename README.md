@@ -48,6 +48,12 @@ AutoGen Studio is an interface powered by AutoGen, designed to simplify the proc
 AutoGen Studio is an interface powered by AutoGen, designed to simplify the process of creating and managing multi-agent solutions. It’s a user-friendly platform that allows even beginners to declaratively define and modify agents and multi-agent workflows through an intuitive interface.
 - https://youtu.be/4ZqJSfV4818?si=u8V6dBfaQ0jdax8q
 
+### CrewAI Tutorial - Next Generation AI Agent Teams (Fully Local)
+The power of AI collaboration has too much to offer. CrewAI is designed to enable AI agents to assume roles, share goals, and operate in a cohesive unit - much like a well-oiled crew. Whether you're building a smart assistant platform, an automated customer service ensemble, or a multi-agent research team, CrewAI provides the backbone for sophisticated multi-agent interactions.
+- https://github.com/joaomdmoura/crewAI
+- https://youtu.be/tnejrr-0a94?si=Y9b7vePcvc07PfKk
+  
+
 ## 🎯 Focus on Generative Arts 
 
 ### Item 1 
