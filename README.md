@@ -1,8 +1,8 @@
 # AI_news_DATE
 
-# Generative AI & AI _newsletter_DATE 
+# Generative AI & AI _08.04
 
-## 🎬 Newsletter_DATE video 
+## 🎬 Newsletter_08.04 video 
 made with https://aiapp-fr.vidnoz.com/
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5BPlf4jZnpw/0.jpg)](https://www.youtube.com/watch?v=5BPlf4jZnpw)
@@ -28,11 +28,11 @@ url
 - 
 
 
-## 🎯 Focus n°1 
+## 🎯  AI Agents 
 
-### Item 1 
-
-TEXT 
+### AI Pioneer Shows The Power of AI AGENTS - "The Future Is Agentic"
+Andrew Ng, Google Brain, and Coursera founder discusses agents' power and how to use them 
+https://youtu.be/ZYf9V2fSFwU?si=XMFy8cbwDX9tTeae
 
 url 
 
