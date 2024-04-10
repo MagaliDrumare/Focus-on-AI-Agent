@@ -76,6 +76,8 @@ Imagen 2 can now create short, four-second videos from text prompts, along the l
 
 ## 📖 AI Learning / Courses focus on Uncensored models 
 
+Uncensored models represent a unique class of artificial intelligence that operates without the traditional constraints imposed on most AI systems. Designed to generate/provide information with minimal restrictions, these models offer expansive capabilities for professionals aiming to utilize AI’s full potential without the filters typically applied for ethical, legal, or cultural reasons.
+
 ### What are Uncensored Models in AI ? 
 - https://medium.com/@olga.zem/uncensored-models-in-ai-8e59b9e4ca33
 
