@@ -1,5 +1,3 @@
-# AI_news_DATE
-
 # Generative AI & AI _08.04
 
 ## 🎬 Newsletter_08.04 video 
