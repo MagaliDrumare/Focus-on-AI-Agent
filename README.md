@@ -10,12 +10,23 @@ made with https://aiapp-fr.vidnoz.com/
 
 ## 🚀  AI News 
 
-### News Focus  
-- 
-url
+### Google Cloud Next 2024 : 
+- Google Cloud Next 2024: Everything announced so far
+https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/
 
-- 
-url 
+- Google’s Gemini Pro 1.5 enters public preview on Vertex AI
+Gemini 1.5 Pro, Google’s most capable generative AI model, is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. 
+https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/
+
+-Google launches Code Assist, its latest challenger to GitHub’s Copilot
+Gemini Code Assist, its enterprise-focused AI code completion and assistance tool.
+https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/
+
+-Google’s Gemini comes to databases
+At its annual Cloud Next conference in Las Vegas, Google announced the public preview of Gemini in Databases, a collection of features underpinned by Gemini to — as the company pitched it — “simplify all aspects of the database journey.” In less jargony language, Gemini in Databases is a bundle of AI-powered, developer-focused tools for Google Cloud customers who are creating, monitoring and migrating app databases. 
+One piece of Gemini in Databases is Database Studio, an editor for structured query language (SQL), the language used to store and process data in relational databases. 
+https://techcrunch.com/2024/04/09/googles-gemini-comes-to-databases/
+
 
 
 ### AI developments this week :
@@ -57,18 +68,13 @@ New research paper by HuggingFace, where they propose a new LLM framework that b
 
 ## 🎯 Focus on Generative Arts 
 
-### Item 1 
+### New Google Vids product helps create a customized video with an AI assist
+The idea is to provide a video creation tool alongside other Workspace tools like Docs and Sheets with a similar ability to create and collaborate in the browser, except in this case, on video. “This is your video editing, writing and production assistant, all in one,” Pappu said. “We help transform the assets you already have — whether marketing copy or images or whatever else in your drive — into a compelling video.”
+- https://techcrunch.com/2024/04/09/new-google-vids-product-helps-create-a-customized-video-with-an-ai-assist/
 
-TEXT 
-
-url 
-
-
-### Item 2 
-
-TEXT 
-
-url 
+### Google releases Imagen 2, a video clip generator
+Imagen 2 can now create short, four-second videos from text prompts, along the lines of AI-powered clip generation tools like Runway, Pika and Irreverent Labs. True to Imagen 2’s corporate focus, Google’s pitching live images as a tool for marketers and creatives, such as a GIF generator for ads showing nature, food and animals — subject matter that Imagen 2 was fine-tuned on.
+- https://tcrn.ch/3xAY6PK
 
 
 ### Item 3 
