@@ -77,15 +77,6 @@ The idea is to provide a video creation tool alongside other Workspace tools lik
 Imagen 2 can now create short, four-second videos from text prompts, along the lines of AI-powered clip generation tools like Runway, Pika and Irreverent Labs. True to Imagen 2’s corporate focus, Google’s pitching live images as a tool for marketers and creatives, such as a GIF generator for ads showing nature, food and animals — subject matter that Imagen 2 was fine-tuned on.
 - https://tcrn.ch/3xAY6PK
 
-
-### Item 3 
-
-TEXT 
-
-url 
-
-
-
 ## 📖 AI Learning / Courses 
 
 ### Video 1 
