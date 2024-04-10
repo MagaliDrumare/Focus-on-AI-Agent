@@ -77,15 +77,14 @@ The idea is to provide a video creation tool alongside other Workspace tools lik
 Imagen 2 can now create short, four-second videos from text prompts, along the lines of AI-powered clip generation tools like Runway, Pika and Irreverent Labs. True to Imagen 2’s corporate focus, Google’s pitching live images as a tool for marketers and creatives, such as a GIF generator for ads showing nature, food and animals — subject matter that Imagen 2 was fine-tuned on.
 - https://tcrn.ch/3xAY6PK
 
-## 📖 AI Learning / Courses 
+## 📖 AI Learning / Courses focus on Uncensored models 
 
-### Video 1 
-URL 
+### What are Uncensored Models in AI ? 
+- https://medium.com/@olga.zem/uncensored-models-in-ai-8e59b9e4ca33
 
+### Uncensored Models by Eric Hartford
+- https://erichartford.com/uncensored-models
 
-### Course 1 
-URL 
-
-### Course 2 
-URL 
+### UNCENSORED Mistral v0.2 Dolphin LLM - Won't Refuse Anything!
+- https://youtu.be/yqMBI_Q0_Yc?si=sqwZhjWIM1YtZ8EH
 
