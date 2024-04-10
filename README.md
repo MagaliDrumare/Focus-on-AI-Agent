@@ -31,14 +31,11 @@ One piece of Gemini in Databases is Database Studio, an editor for structured qu
 
 
 ### AI developments this week :
-- The Anthropic team just released a paper detailing a new jailbreak technique called "Many Shot Jailbreak" which utilizes the larger context windows and large model's ability to learn against it https://youtu.be/9IM5d-egZ7M?si=Vg0LeOqvykNIBnVk
-- Researchers at @Stanford and @UNC developed a new fine-tuning method https://www.deeplearning.ai/the-batch/facttune-a-method-to-fine-tune-llms-for-factual-accuracy-without-human-feedback
-- 
-- 
-- 
-- 
-- 
-
+The Anthropic team just released a paper detailing a new jailbreak technique called "Many Shot Jailbreak" which utilizes the larger context windows and large model's ability to learn against it  
+- https://youtu.be/9IM5d-egZ7M?si=Vg0LeOqvykNIBnVk
+  
+Researchers at @Stanford and @UNC developed a new fine-tuning method.LLMs are known to hallucinate, and the human labor involved in fact checking their output is expensive and time-consuming. The authors applied well tested methods to improve the factuality of texts while keeping human involvement to a minimum.
+- https://www.deeplearning.ai/the-batch/facttune-a-method-to-fine-tune-llms-for-factual-accuracy-without-human-feedback
 
 ## 🎯  AI Agents 
 
