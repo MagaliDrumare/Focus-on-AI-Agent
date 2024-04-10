@@ -11,21 +11,22 @@ made with https://aiapp-fr.vidnoz.com/
 ## 🚀  AI News 
 
 ### Google Cloud Next 2024 : 
-- Google Cloud Next 2024: Everything announced so far
-https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/
 
-- Google’s Gemini Pro 1.5 enters public preview on Vertex AI
+Google Cloud Next 2024: Everything announced so far
+- https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/
+
+Google’s Gemini Pro 1.5 enters public preview on Vertex AI
 Gemini 1.5 Pro, Google’s most capable generative AI model, is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. 
-https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/
+- https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/
 
--Google launches Code Assist, its latest challenger to GitHub’s Copilot
+Google launches Code Assist, its latest challenger to GitHub’s Copilot
 Gemini Code Assist, its enterprise-focused AI code completion and assistance tool.
-https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/
+- https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/
 
--Google’s Gemini comes to databases
-At its annual Cloud Next conference in Las Vegas, Google announced the public preview of Gemini in Databases, a collection of features underpinned by Gemini to — as the company pitched it — “simplify all aspects of the database journey.” In less jargony language, Gemini in Databases is a bundle of AI-powered, developer-focused tools for Google Cloud customers who are creating, monitoring and migrating app databases. 
+Google’s Gemini comes to databases
+Google announced the public preview of Gemini in Databases, a collection of features underpinned by Gemini to — as the company pitched it — “simplify all aspects of the database journey.” Gemini in Databases is a bundle of AI-powered, developer-focused tools for Google Cloud customers who are creating, monitoring and migrating app databases. 
 One piece of Gemini in Databases is Database Studio, an editor for structured query language (SQL), the language used to store and process data in relational databases. 
-https://techcrunch.com/2024/04/09/googles-gemini-comes-to-databases/
+- https://techcrunch.com/2024/04/09/googles-gemini-comes-to-databases/
 
 
 
