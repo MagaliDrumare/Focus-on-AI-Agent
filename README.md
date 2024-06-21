@@ -1,4 +1,3 @@
-# Generative AI & AI _08.04
 
 ## 🚀  AI News 
 
