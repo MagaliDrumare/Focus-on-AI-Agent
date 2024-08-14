@@ -1,34 +1,3 @@
-
-## 🚀  AI News 
-
-### Google Cloud Next 2024 : 
-
-Google Cloud Next 2024: Everything announced so far
-- https://techcrunch.com/2024/04/09/google-cloud-next-2024-everything-you-need-to-know/
-
-Google’s Gemini Pro 1.5 enters public preview on Vertex AI
-Gemini 1.5 Pro, Google’s most capable generative AI model, is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. 
-- https://techcrunch.com/2024/04/09/googles-gemini-pro-1-5-enters-public-preview-on-vertex-ai/
-
-Google launches Code Assist, its latest challenger to GitHub’s Copilot
-Gemini Code Assist, its enterprise-focused AI code completion and assistance tool.
-- https://techcrunch.com/2024/04/09/google-launches-code-assist-its-latest-challenger-to-githubs-copilot/
-
-Google’s Gemini comes to databases
-Google announced the public preview of Gemini in Databases, a collection of features underpinned by Gemini to — as the company pitched it — “simplify all aspects of the database journey.” Gemini in Databases is a bundle of AI-powered, developer-focused tools for Google Cloud customers who are creating, monitoring and migrating app databases. 
-One piece of Gemini in Databases is Database Studio, an editor for structured query language (SQL), the language used to store and process data in relational databases. 
-- https://techcrunch.com/2024/04/09/googles-gemini-comes-to-databases/
-
-
-
-### AI developments this week :
-The Anthropic team just released a paper detailing a new jailbreak technique called "Many Shot Jailbreak" which utilizes the larger context windows and large model's ability to learn against it  
-- https://youtu.be/9IM5d-egZ7M?si=Vg0LeOqvykNIBnVk
-  
-Researchers at @Stanford and @UNC developed a new fine-tuning method.
-LLMs are known to hallucinate, and the human labor involved in fact checking their output is expensive and time-consuming. The authors applied well tested methods to improve the factuality of texts while keeping human involvement to a minimum.
-- https://www.deeplearning.ai/the-batch/facttune-a-method-to-fine-tune-llms-for-factual-accuracy-without-human-feedback
-
 ## 🎯  AI Agents 
 
 ### AI Pioneer Shows The Power of AI AGENTS - "The Future Is Agentic"
@@ -56,26 +25,6 @@ New research paper by HuggingFace, where they propose a new LLM framework that b
 - https://huggingface.co/spaces/microsoft/HuggingGPT
   
 
-## 🎯 Focus on Generative Arts 
 
-### New Google Vids product helps create a customized video with an AI assist
-The idea is to provide a video creation tool alongside other Workspace tools like Docs and Sheets with a similar ability to create and collaborate in the browser, except in this case, on video. “This is your video editing, writing and production assistant, all in one,” Pappu said. “We help transform the assets you already have — whether marketing copy or images or whatever else in your drive — into a compelling video.”
-- https://techcrunch.com/2024/04/09/new-google-vids-product-helps-create-a-customized-video-with-an-ai-assist/
 
-### Google releases Imagen 2, a video clip generator
-Imagen 2 can now create short, four-second videos from text prompts, along the lines of AI-powered clip generation tools like Runway, Pika and Irreverent Labs. True to Imagen 2’s corporate focus, Google’s pitching live images as a tool for marketers and creatives, such as a GIF generator for ads showing nature, food and animals — subject matter that Imagen 2 was fine-tuned on.
-- https://tcrn.ch/3xAY6PK
-
-## 📖 AI Learning / Courses focus on Uncensored models 
-
-Uncensored models represent a unique class of artificial intelligence that operates without the traditional constraints imposed on most AI systems. Designed to generate/provide information with minimal restrictions, these models offer expansive capabilities for professionals aiming to utilize AI’s full potential without the filters typically applied for ethical, legal, or cultural reasons.
-
-### What are Uncensored Models in AI ? 
-- https://medium.com/@olga.zem/uncensored-models-in-ai-8e59b9e4ca33
-
-### Uncensored Models by Eric Hartford
-- https://erichartford.com/uncensored-models
-
-### UNCENSORED Mistral v0.2 Dolphin LLM - Won't Refuse Anything!
-- https://youtu.be/yqMBI_Q0_Yc?si=sqwZhjWIM1YtZ8EH
 
